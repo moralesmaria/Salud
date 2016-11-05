@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<group android:checkableBehavior="single">
+    <item
+        android:id="@+id/inicio"
+        android:title="Inicio"/>
+
+    <item
+        android:id="@+id/numero"
+        android:title="Números de emergencias"/>
+
+    <item
+        android:id="@+id/tips"
+        android:title="tips"/>
+
+    <item android:title="Header">
+       <menu>
+           <group>
+              <item
+                  android:id="@+id/opcion3"
+                  android:title="opcion3"/>
+                  <item
+                      android:id="@+id/opcion4"
+                      android:title="opcion4"/>
+           </group>
+       </menu>
+    </item>
+    </group>
+</menu>
+
+

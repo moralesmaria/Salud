@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Salud</string>
+        <string name="textoOpciones">Opciones</string>
+        <string-array name="Opciones">
+            <item >Seleccione </item>
+            <item >Hospital Bertha calderon </item>
+            <item >Hospital SuMedico</item>
+            <item >Hospital Metropolitano</item>
+            <item >Hospital Central</item>
+            <item >Hospital Roberto Calderon </item>
+            <item >Hospital Militar Dávila Bolaños</item>
+            <item >Hospital Monte España</item>
+            <item >Hospital Cruz Azul</item>
+            <item >Hospital Salud Integral</item>
+            <item >Hospital Bautista</item>
+            <item >Hospital Bautista</item>
+        </string-array>
+    <string name="bottom_sheet_behavior" />
+    <item name="drawer_layout" type="id" />
+    </resources>
+
+
